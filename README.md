@@ -20,16 +20,16 @@ Aplikasi ini digunakan untuk mencatat pemasukan dan pengeluaran harian serta men
 
 ## 🖼️ Screenshot Aplikasi
 
-💡 *Pastikan Anda sudah memindahkan file screenshot ke dalam folder `D:\praktek8\DompetKu\assets\` dan mengubah namanya menjadi `home.png`, `saldo.png`, dan `history.png` agar gambar muncul dengan benar.*
+> Tambahkan screenshot kamu di folder `/assets`
 
 ### 📱 Tampilan Utama
-![Home Screen](./D:\praktek8\DompetKu\assets\home.png)
+![Home Screen](./assets/home.png)
 
 ### 💰 Tampilan Saldo
-![Saldo](./D:\praktek8\DompetKu\assets\saldo.png)
+![Saldo](./assets/saldo.png)
 
 ### 🧾 Riwayat Transaksi
-![History](./D:\praktek8\DompetKu\assets\history.png)
+![History](./assets/history.png)
 
 ---
 
@@ -38,15 +38,12 @@ Aplikasi ini digunakan untuk mencatat pemasukan dan pengeluaran harian serta men
 - React Native
 - Expo SDK 54
 - JavaScript
-- React Hooks (`useState`)
+- React Hooks (useState)
 
 ---
 
 ## 📦 Cara Instalasi & Menjalankan
 
-Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer atau perangkat lokal Anda:
-
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/username/dompetku.git](https://github.com/username/dompetku.git)
-cd dompetku
+git clone https://github.com/username/dompetku.git
