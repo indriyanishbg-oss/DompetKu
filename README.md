@@ -23,13 +23,13 @@ Aplikasi ini digunakan untuk mencatat pemasukan dan pengeluaran harian serta men
 💡 *Pastikan Anda sudah memindahkan file screenshot ke dalam folder `D:\praktek8\DompetKu\assets\` dan mengubah namanya menjadi `home.png`, `saldo.png`, dan `history.png` agar gambar muncul dengan benar.*
 
 ### 📱 Tampilan Utama
-![Home Screen](./DompetKu/assets/image2.jpeg)
+![Home Screen](./D:\praktek8\DompetKu\assets\image.png)
 
 ### 💰 Tampilan Saldo
-![Saldo](./DompetKu/assets/image.jpeg)
+![Saldo](./D:\praktek8\DompetKu\assets\image.png)
 
 ### 🧾 Riwayat Transaksi
-![History](./DompetKu/assets/image3.jpeg)
+![History](./D:\praktek8\DompetKu\assets\image3.png)
 
 ---
 
